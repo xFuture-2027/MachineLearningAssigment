@@ -1,0 +1,19 @@
+{
+  "primary_model_selected_by_cv": "Random Forest",
+  "best_required_model_by_cv": "Random Forest",
+  "subset_base_model": "Random Forest",
+  "subset_features": [
+    "Prefix_Suffix",
+    "having_Sub_Domain",
+    "SSLfinal_State",
+    "Domain_registeration_length",
+    "Request_URL",
+    "URL_of_Anchor",
+    "Links_in_tags",
+    "SFH",
+    "age_of_domain",
+    "web_traffic"
+  ],
+  "subset_cv_f1": 0.9236620132109702,
+  "note": "Selection uses development CV F1 only. No changes to models or selection after test evaluation."
+}

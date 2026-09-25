@@ -1,0 +1,10 @@
+reference,model,reference_right_other_wrong,reference_wrong_other_right,mcnemar_exact_p,holm_adjusted_p,significant_at_0.05
+Random Forest,Decision Tree,81,7,4.479628833074364e-17,4.0316659497669273e-16,True
+Random Forest,Categorical NB,88,12,1.9113575360277063e-15,1.529086028822165e-14,True
+Random Forest,Logistic Regression,85,18,1.3634051463381556e-11,9.54383602436709e-11,True
+Random Forest,k-Nearest Neighbours,68,15,3.1961254620309685e-09,1.917675277218581e-08,True
+Random Forest,Top 10 Random Forest,70,21,2.509086976240059e-07,1.2545434881200294e-06,True
+Random Forest,Multilayer ANN,63,19,1.1467543245820195e-06,4.587017298328078e-06,True
+Random Forest,Gradient Boosting,41,8,1.9646537765538596e-06,5.893961329661579e-06,True
+Random Forest,Deep ANN (3 layers),59,30,0.002785268996304216,0.005570537992608432,True
+Random Forest,SVM (RBF),43,21,0.008146902228698568,0.008146902228698568,True
