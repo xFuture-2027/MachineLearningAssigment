@@ -1,0 +1,10 @@
+reference,model,reference_right_other_wrong,reference_wrong_other_right,mcnemar_exact_p,holm_adjusted_p,significant_at_0.05
+Gradient Boosting,Categorical NB,67,24,7.348549184628524e-06,6.613694266165672e-05,True
+Gradient Boosting,Random Forest,8,35,4.1934157934520044e-05,0.00033547326347616035,True
+Gradient Boosting,Decision Tree,55,22,0.00021680385841747662,0.0015176270089223363,True
+Gradient Boosting,Logistic Regression,58,24,0.00022196403499337815,0.0015176270089223363,True
+Gradient Boosting,k-Nearest Neighbours,53,33,0.03985362856053515,0.19926814280267574,False
+Gradient Boosting,Top 10 Random Forest,58,42,0.1332106192072134,0.5328424768288536,False
+Gradient Boosting,SVM (RBF),17,28,0.1351564508456704,0.5328424768288536,False
+Gradient Boosting,Multilayer ANN,41,30,0.23509756240834187,0.5328424768288536,False
+Gradient Boosting,Deep ANN (3 layers),37,41,0.7343420330298466,0.7343420330298466,False

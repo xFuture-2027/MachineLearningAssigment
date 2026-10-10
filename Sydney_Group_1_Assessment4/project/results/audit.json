@@ -1,0 +1,21 @@
+{
+  "rows": 11055,
+  "features": 30,
+  "missing": 0,
+  "duplicate_feature_rows": 5270,
+  "duplicate_full_rows": 5206,
+  "unique_feature_patterns": 5785,
+  "conflicting_label_patterns": 64,
+  "phishing": 4898,
+  "legitimate": 6157,
+  "train_rows": 8845,
+  "test_rows": 2210,
+  "train_phishing": 3919,
+  "test_phishing": 979,
+  "split_seed": 565,
+  "target_mapping": {
+    "original_-1": "phishing=1",
+    "original_1": "legitimate=0"
+  },
+  "sha256_arff": "3bcf93b1612306537ee2737751f1bac185b2a77886ab376644c3bf0c7f7cb3e6"
+}
